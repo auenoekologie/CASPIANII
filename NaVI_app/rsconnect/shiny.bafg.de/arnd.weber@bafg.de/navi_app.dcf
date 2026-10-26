@@ -1,0 +1,10 @@
+name: navi_app
+title: NaVI_app
+username: arnd.weber@bafg.de
+account: arnd.weber@bafg.de
+server: shiny.bafg.de
+hostUrl: https://shiny.bafg.de/__api__
+appId: 31
+bundleId: 161
+url: https://shiny.bafg.de/navi/
+version: 1
